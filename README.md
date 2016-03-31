@@ -1,2 +1,4 @@
 # hello-world
-Hello Got
+Hello Git
+
+My name is Vic and I wonna learn you!
